@@ -1,7 +1,7 @@
 ---
 name: Feature request
-about: If you're just not sure how to do something, see "ask a question".
-labels: enhancement, needs-triage
+about: Suggest an idea fro this project.
+Title: [FEATURE REQUEST]
 ---
 
 ### Include required information
